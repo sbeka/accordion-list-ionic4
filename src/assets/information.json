@@ -1,0 +1,98 @@
+{
+    "items": [
+        {
+            "name": "Specials",
+            "children": [
+                {
+                    "name": "Special Academy Pizza",
+                    "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+                    "price": "$25"
+                },
+                {
+                    "name": "Pizza Ionic",
+                    "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                    "price": "$19.99"
+                }
+            ]
+        },
+        {
+            "name": "Pizza",
+            "children": [
+                {
+                    "name": "Traditional",
+                    "children": [
+                        {
+                            "name": "Pizza Salami",
+                            "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                            "price": "$10"
+                        },
+                        {
+                            "name": "Pizza Prosciutto",
+                            "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                            "price": "$12"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gourmet",
+                    "children": [
+                        {
+                            "name": "Pizza Kazakhstan",
+                            "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                            "price": "$13"
+                        },
+                        {
+                            "name": "Pizza Astana",
+                            "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                            "price": "$14"
+                        },
+                        {
+                            "name": "Pizza Almaty",
+                            "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                            "price": "$11"
+                        },
+                        {
+                            "name": "Pizza Taldykorgan",
+                            "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                            "price": "$11"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bestseller",
+                    "children": [
+                        {
+                            "name": "Pizza Almaty",
+                            "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                            "price": "$11"
+                        },
+                        {
+                            "name": "Pizza Taldykorgan",
+                            "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                            "price": "$11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Drinks",
+            "children": [
+                {
+                    "name": "Blue Moon",
+                    "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                    "prcie": "$5"
+                },
+                {
+                    "name": "White Shark",
+                    "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                    "prcie": "$6"
+                }
+            ]
+        },
+        {
+            "name": "Coupons",
+            "children": []
+        }
+    ]
+}

@@ -1,10 +1,16 @@
-<ion-header>
-  <ion-toolbar>
-    <ion-title>
-      Ionic Blank
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
+  <ion-header>
+    <ion-toolbar color="primary">
+      <ion-title>
+        Accordion Ionic 4
+      </ion-title>
+      <ion-buttons slot="end">
+        <ion-button (click)="automaticClose = !automaticClose">
+          <ion-icon slot="icon-only" name="close" *ngIf="automaticClose"></ion-icon>
+          <ion-icon slot="icon-only" name="resize" *ngIf="!automaticClose"></ion-icon>
+        </ion-button>
+      </ion-buttons>
+    </ion-toolbar>
+  </ion-header>
 
 <ion-content padding>
   The world is your oyster.
