@@ -81,12 +81,12 @@
                 {
                     "name": "Blue Moon",
                     "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                    "prcie": "$5"
+                    "price": "$5"
                 },
                 {
                     "name": "White Shark",
                     "information": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                    "prcie": "$6"
+                    "price": "$6"
                 }
             ]
         },

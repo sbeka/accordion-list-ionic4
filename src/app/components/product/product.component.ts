@@ -14,8 +14,8 @@ export class ProductComponent implements OnInit {
 
   ngOnInit() {}
 
-  async byItem(product) {
-    let toast = await this.toastCtrl.create({
+  async buyItem(product) {
+    const toast = await this.toastCtrl.create({
       message: `Added to the cart: ${product.name}`
     });
     toast.present();
